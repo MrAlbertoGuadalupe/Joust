@@ -4,8 +4,7 @@
 - If you hit the ceiling, you lose a point(or die or both?)
 
 
-# Minimum Viable Product:  
-- Grid layout  
+# Minimum Viable Product:   
 - Two characters that can be controlled Up/Left/Right with individual seperate Key Bindings(event listener) 
 - Characters are both always falling down(gravity effect)unless they are on the floor or a platform  
 - Both characters can be controlled at the same time
