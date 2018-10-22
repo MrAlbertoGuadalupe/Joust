@@ -1,3 +1,9 @@
+# Instructions for the game  
+- Try to collide into your opponent and knock them down by having the higher ground 
+- Use < > ^ keys to move
+- If you hit the ceiling, you lose a point(or die or both?)
+
+
 # Minimum Viable Product:  
 - Grid layout  
 - Two characters that can be controlled Up/Left/Right with individual seperate Key Bindings(event listener) 
@@ -10,3 +16,9 @@
 - On a collision, the player who is lower in the Y axis resets to their default position
 - The first player to 7 points wins.
 - The ceiling is Lava
+
+# Tasks:
+- HTML/CSS Styling (Game container, Player 1 Score, Player 2 score)
+- 
+- 
+- 
