@@ -18,6 +18,6 @@
 
 # Tasks:
 - HTML/CSS Styling (Game container, Player 1 Score, Player 2 score)
-- 
+- Create an object/s that will represent the locations of the platforms
 - 
 - 
